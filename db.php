@@ -1,3 +1,5 @@
+// this is the database.js connection
+
 <?php
 
 error_reporting(E_ALL);
